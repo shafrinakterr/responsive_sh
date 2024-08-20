@@ -3,6 +3,7 @@
     padding: 10px;
 
   }
+
   .banner_title {
     font-size: 30px;
     line-height: 41px;
@@ -37,15 +38,6 @@
     padding: 10px;
   }
 
-  .title_box h2 {
-    font-size: 30px;
-
-  }
-
-  .title_box p {
-    font-size: 14px;
-  }
-
   .btn {
     font-size: 14px;
     padding: 10px;
@@ -73,7 +65,7 @@
 
   .btn {
     margin-bottom: 10px;
-   
+
   }
 
   .vaction_contant {
@@ -81,9 +73,9 @@
     text-align: center;
   }
 
-   h2 {
+  h2 {
     font-size: 20px;
-    line-height: 30px;
+    line-height: 25px;
   }
 
   .vaction_contant p {
@@ -95,25 +87,30 @@
   .business_img img {
     width: 100px;
   }
+
   .business_contant {
     padding: 0 10px;
     text-align: center;
-}
-.business_img {
-  justify-content: center;
-}
-.singUp_section{
-  padding: 20px;
-}
-.footer{
-  background-color: #176B3A;
-  display: block;
-  padding: 10px;
-}
-.footer p{
-  font-size: 14px;
-  text-align: center;
+  }
 
-}
+  .business_img {
+    justify-content: center;
+  }
+
+  .singUp_section {
+    padding: 20px;
+  }
+
+  .footer {
+    background-color: #176B3A;
+    display: block;
+    padding: 10px;
+  }
+
+  .footer p {
+    font-size: 14px;
+    text-align: center;
+
+  }
 
 }
